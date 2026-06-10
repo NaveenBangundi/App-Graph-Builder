@@ -19,6 +19,15 @@ A responsive, high-fidelity **App Graph Builder** dashboard that allows cloud en
 #### 5. Developer Settings Panel
 ![Developer Settings Panel](./src/assets/screenshot_settings.png)
 
+#### 6. Alternative Workspace (Logistics Tracking Network)
+![Logistics Tracking Network](./src/assets/screenshot_logistics.png)
+
+#### 7. Active Selection details in Logistics Network
+![Active Selection details in Logistics Network](./src/assets/screenshot_logistics_selected.png)
+
+#### 8. Application Navigation Menu
+![Application Navigation Menu](./src/assets/screenshot_app_switcher.png)
+
 ---
 
 ## ⚡ Key Features
